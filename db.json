@@ -2,17 +2,20 @@
   "student": [
     {
       "id": 1,
-      "name": "shiv",
+      "name": "Sunny",
+      "date": 01/04/2021,
       "class": 1
     },
     {
       "id": 2,
-      "name": "ling",
+      "name": "Moni",
+      "date": 01/02/2021,
       "class": 2
     },
     {
       "id": 3,
-      "name": "loki",
+      "name": "Stark",
+      "date": 12/01/2020,
       "class": 3
     }
   ],

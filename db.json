@@ -17,6 +17,12 @@
       "name": "Stark",
       "date": "2020-12-01T22:01:03.969Z",
       "class": [2,1]
+    },
+    {
+      "id": 4,
+      "name": "Monet C.",
+      "date": "2021-10-20",
+      "class": [1]
     }
   ],
   "course": [

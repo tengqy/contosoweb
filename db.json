@@ -31,7 +31,7 @@
       "class": []
     }
   ],
-  "course": [
+  "chess": [
     {
       "id": 1,
       "name": "Impossible Metallurgy"
@@ -41,7 +41,7 @@
       "id": 2
     }
   ],
-   "chess": [
+   "course": [
     {
       "id": 1,
       "name": "Impossible Metallurgy"
@@ -51,39 +51,39 @@
       "id": 2
     },
     {
-      "id":3,
+      "id": 3,
       "name": "Beyond Bones"
     },
     {
-      "id":4,
+      "id": 4,
       "name": "Murine Analogues"
     },
     {
-      "id":5,
+      "id": 5,
       "name": "Underwater Octo-motives"
     },
     {
-      "id":6,
+      "id": 6,
       "name": "Ionised Giants"
     },
     {
-      "id":7,
+      "id": 7,
       "name": "Turbomuseums"
     },
     {
-      "id":8,
+      "id": 8,
       "name": "Can History?"
     },
     {
-      "id":9,
+      "id": 9,
       "name": "From Homier to Daintly"
     },
     {
-      "id":10,
+      "id": 10,
       "name": "Lime Theory"
     },
     {
-      "id":11,
+      "id": 11,
       "name": "Bee Decisions"
     }
   ]

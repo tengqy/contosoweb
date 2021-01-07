@@ -27,7 +27,8 @@
     {
       "id":5,
       "name": "Invisible Man",
-      "class":
+      "date": "1901-11-22",
+      "class": []
     }
   ],
   "course": [
